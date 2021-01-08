@@ -1,12 +1,10 @@
-# back-end-developer-position-braga-portugal
-Back-End Developer Braga - Portugal
+# Senior back-end-developer-position-remote-portugal
+Senior Back-End Developer Remote - Portugal
 
 ## About us
 eSolidar.com is an online charitable giving marketplace that provides different funding tools for causes and social projects. Charities and individual causes can register and raise funds (donations, charity auctions, crowdfunding, and online shopping) while also raising awareness. Anyone can register, explore and contribute to campaigns/causes.
 
 A company can also manage its social responsibility together with its employees and community (partners, clients, etc) at business.eSolidar.com. This is a SaaS platform that allows businesses to increase their social impact, talent retention and visibility through charitable giftcards for employees/clients, corporate volunteering and impact analysis. More about its value proposition here: https://www.linkedin.com/pulse/can-social-impact-become-best-catalyst-employee-marco-barbosa
-
-We’re also working on a new technology (blockchain) that solves some of the industry's biggest problems, such as lack of transparency and trust in charities while removing intermediaries making the relationship funder-beneficiary much more efficient, engaging and with reduced costs. More @ impactMarket.com
 
 ## About the Role
 We are looking for an experienced Back-End Web Developer who would love to deliver elegant and intuitive web solutions for enterprise applications. You will be a member of our agile team tasked with developing new features as well as maintaining and supporting the existing ones within our current and future products (we have plenty of ideas!). The ideal candidate must be self-directed and a fast learner, flexible enough to work on new technologies as well as on legacy components.
@@ -21,8 +19,8 @@ We are looking for an experienced Back-End Web Developer who would love to deliv
 
 ## Skills and Qualifications	
 - Degree in Engineering, Computer Science, IT, or similar.
-- 4+ years of experience in PHP/JAVA, NODEJS or similar.
-- In-depth knowledge of object-oriented PHP and Laravel 5/6 PHP Framework.
+- 7+ years of experience in PHP/JAVA, NODEJS or similar.
+- In-depth knowledge of object-oriented PHP and Laravel 7/8 PHP Framework.
 - Good understanding of Hands-on experience with SQL schema design, SOLID principles, REST API design.
 - Software testing tools (PHPUnit, PHPSpec...).
 - Good knowledge of POO, Design Pattern, Algorithmics, and Agile Methodologies.
@@ -31,12 +29,13 @@ We are looking for an experienced Back-End Web Developer who would love to deliv
 
 ## We will appreciate 
 - Good understanding of English (written and spoken);
+- Experience in Microservices.
 - Experience in Javascript Server / Client-side (NodeJS / React / Vue / Jquery) frameworks.
 - Some knowledge to build and run Docker containers;
 - Some knowledge with AWS Amazon Cloud.
 
 ## What do we offer?
-- Full-time position, working from our facilities in the city of Braga;
+- Full-time position remote;
 - Salary adequate to experience and quality of work;
 - Flexible schedule and partial remote days available;
 - Above-average food allowance;
